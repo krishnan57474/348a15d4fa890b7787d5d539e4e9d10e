@@ -1,0 +1,1 @@
+{"url":"https://cdn.jsdelivr.net/gh/krishnan57474/348a15d4fa890b7787d5d539e4e9d10e@1/src/script.min.js"}
